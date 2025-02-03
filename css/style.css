@@ -583,19 +583,6 @@ nav {
   z-index: -1000;
 }
 
-.cadre {
-  position: relative;
-  overflow: hidden;
-  width: 80%;
-  background-color: rgba(0, 0, 0, 0.2);
-  border-width: 1px;
-  border-style: solid;
-  border-color: #2c3437;
-  padding: .5rem;
-  border-radius: 1.5rem;
-  transition: all 0.4s ease;
-}
-
 .profile {
   width: 100%;
   border-radius: 1rem;
